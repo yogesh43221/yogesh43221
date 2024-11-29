@@ -1,5 +1,6 @@
 # Hi there, I'm Yogesh Jadhav! 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=yogesh43221&color=blue)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh43221" alt="yogesh43221" /></a> </p>
 
 ## 👨‍💻 About Me
 I am an **E&TC Graduate** passionate about **Data Science**, **Machine Learning**, **Embedded Systems**, and **Deep Learning**. I enjoy building innovative solutions to real-world problems.
