@@ -7,7 +7,7 @@ Software Engineer | Data Analyst | QA Automation | Python & SQL Developer | ML &
 
 - 🌍 **Location**: Pune, Maharashtra, India
 - ✉️ **Email**: [yj43221@gmail.com](mailto:yj43221@gmail.com)
-- 🌐 **Portfolio**: [LinkedIn](https://www.linkedin.com/in/yogesh-jadhav-60548020a/) | [GitHub](https://github.com/yogesh43221) | [Portfolio](https://portfolioyogeshj.vercel.app)
+- 🌐 **Portfolio**: [LinkedIn](https://www.linkedin.com/in/yogesh-jadhav-60548020a/) | [Portfolio](https://portfolioyogeshj.vercel.app)
 
 ---
 ## 🔥 Top Skills
@@ -20,7 +20,6 @@ Software Engineer | Data Analyst | QA Automation | Python & SQL Developer | ML &
 ## 🛠 Developer Tools
 ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C611?style=for-the-badge&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
