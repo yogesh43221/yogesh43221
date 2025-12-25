@@ -3,11 +3,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh43221" alt="yogesh43221" /></a> </p>
 
 ## 👨‍💻 About Me
-I am an **E&TC Graduate** passionate about **Data Science**, **Machine Learning**, **Embedded Systems**, and **Deep Learning**. I enjoy building innovative solutions to real-world problems.
+Software Engineer | Data Analyst | QA Automation | Python & SQL Developer | ML & GenAI Builder
 
 - 🌍 **Location**: Pune, Maharashtra, India
 - ✉️ **Email**: [yj43221@gmail.com](mailto:yj43221@gmail.com)
-- 🌐 **Portfolio**: [LinkedIn](https://www.linkedin.com/in/yogesh-jadhav-60548020a/) | [GitHub](https://github.com/yogesh43221)
+- 🌐 **Portfolio**: [LinkedIn](https://www.linkedin.com/in/yogesh-jadhav-60548020a/) | [GitHub](https://github.com/yogesh43221) | [GitHub](https://portfolioyogeshj.vercel.app)
 
 ---
 ## 🔥 Top Skills
