@@ -7,7 +7,7 @@ Software Engineer | Data Analyst | QA Automation | Python & SQL Developer | ML &
 
 - 🌍 **Location**: Pune, Maharashtra, India
 - ✉️ **Email**: [yj43221@gmail.com](mailto:yj43221@gmail.com)
-- 🌐 **Portfolio**: [LinkedIn](https://www.linkedin.com/in/yogesh-jadhav-60548020a/) | [GitHub](https://github.com/yogesh43221) | [GitHub](https://portfolioyogeshj.vercel.app)
+- 🌐 **Portfolio**: [LinkedIn](https://www.linkedin.com/in/yogesh-jadhav-60548020a/) | [GitHub](https://github.com/yogesh43221) | [Portfolio](https://portfolioyogeshj.vercel.app)
 
 ---
 ## 🔥 Top Skills
